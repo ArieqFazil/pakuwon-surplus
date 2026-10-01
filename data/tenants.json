@@ -1,0 +1,117 @@
+[
+  {
+    "name": "AEON",
+    "category": "Stores",
+    "floor": "LG"
+  },
+  {
+    "name": "GRAMEDIA",
+    "category": "Lifestyle",
+    "floor": "1"
+  },
+  {
+    "name": "LOTTE MART",
+    "category": "Stores",
+    "floor": "B1"
+  },
+  {
+    "name": "UNIQLO",
+    "category": "Fashion",
+    "floor": "G"
+  },
+  {
+    "name": "SOGO",
+    "category": "Stores",
+    "floor": "LG"
+  },
+  {
+    "name": "LACOSTE",
+    "category": "Fashion",
+    "floor": "LG"
+  },
+  {
+    "name": "GODIVA",
+    "category": "Food & Beverages",
+    "floor": "G"
+  },
+  {
+    "name": "PUTIEN",
+    "category": "Food & Beverages",
+    "floor": "G"
+  },
+  {
+    "name": "BUTTERMAN",
+    "category": "Food & Beverages",
+    "floor": "G"
+  },
+  {
+    "name": "ADIDAS ORIGINAL",
+    "category": "Fashion",
+    "floor": "G"
+  },
+  {
+    "name": "POP MART",
+    "category": "Lifestyle",
+    "floor": "LG"
+  },
+  {
+    "name": "MAKO",
+    "category": "Food & Beverages",
+    "floor": "G"
+  },
+  {
+    "name": "JCO",
+    "category": "Food & Beverages",
+    "floor": "G"
+  },
+  {
+    "name": "STARBUCKS",
+    "category": "Food & Beverages",
+    "floor": "G"
+  },
+  {
+    "name": "PARIS BAGUETTE",
+    "category": "Food & Beverages",
+    "floor": "G"
+  },
+  {
+    "name": "COLORBOX",
+    "category": "Fashion",
+    "floor": "G"
+  },
+  {
+    "name": "EXECUTIVE",
+    "category": "Fashion",
+    "floor": "G"
+  },
+  {
+    "name": "SEPHORA",
+    "category": "Beauty",
+    "floor": "G"
+  },
+  {
+    "name": "L'OCCITANE",
+    "category": "Beauty",
+    "floor": "G"
+  },
+  {
+    "name": "KIEHL'S",
+    "category": "Beauty",
+    "floor": "G"
+  },
+  {
+    "name": "AZKO",
+    "category": "Home",
+    "floor": "LG"
+  },
+  {
+    "name": "ERAFONE",
+    "category": "Electronics",
+    "floor": "1"
+  },
+  {
+    "name": "MR. D.I.Y. PREMIUM",
+    "category": "Home",
+    "floor": "1"
+  }
+]
